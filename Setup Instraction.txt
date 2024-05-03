@@ -1,0 +1,9 @@
+1. Project need PHP 8.1 version and Laravel 8 version
+2. Frist clone the project from git
+3. Import the database in server which is located at project folder name blog.sql
+4. Change the database name in .env file
+5. In project folder run composer install command also run php artisan key:generate command
+6. Then run php artisan serve command 
+
+admin login
+http://127.0.0.1:8000/admin/login 
